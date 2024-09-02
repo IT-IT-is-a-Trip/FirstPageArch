@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: #1f2937;
+    color: aliceblue;
+    gap: 32px;
+}
+.coming,
+.emogi {
+    font-size: 128px;
+}
+.emogi {
+    color: rgb(145, 170, 255);
+}
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(10, 36, 59);
+    font-weight: 900;
+}
